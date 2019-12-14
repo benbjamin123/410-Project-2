@@ -1,0 +1,993 @@
+1	 google.com	250,540,832	 
+2	 facebook.com	201,520,832	 
+3	 amazon.com	167,079,168	 
+4	 youtube.com	157,972,688	 
+5	 twitter.com	147,987,120	 
+6	 wikipedia.com	90,033,288	 
+7	 yelp.com	70,255,736	Quantified Publisher
+8	 giphy.com	55,651,384	Quantified Publisher
+9	 quizlet.com	55,048,840	Quantified Publisher
+10	 a.com	Quantified Publisher
+11	 buzzfeed.com	43,156,944	Quantified Publisher
+12	 fandom.com	42,009,084	Quantified Publisher
+13	 microsoft.com	40,977,624	 
+14	 b.com	Quantified Publisher
+15	 yahoo.com	35,635,080	 
+16	 realtor.com	35,370,876	Quantified Publisher
+17	 urbandictionary.com	34,137,040	Quantified Publisher
+18	 msn.com	33,224,010	 
+19	 dailymail.co.uk	32,872,798	Quantified Publisher
+20	 espn.com	32,079,938	 
+21	 instagram.com	29,252,018	 
+22	 linkedin.com	28,806,052	 
+23	 c.com	Quantified Publisher
+24	 d.com	Quantified Publisher
+25	 imgur.com	26,355,894	Quantified Publisher
+26	 thehill.com	24,526,220	Quantified Publisher
+27	 medicalnewstoday.com	23,624,920	Quantified Publisher
+28	 legacy.com	23,506,606	Quantified Publisher
+29	 whitepages.com	23,458,320	Quantified Publisher
+30	 ebay.com	22,702,124	 
+31	 live.com	22,565,730	 
+32	 glassdoor.com	22,198,208	Quantified Publisher
+33	 stackexchange.com	21,864,568	Quantified Publisher
+34	 cheatsheet.com	21,844,636	Quantified Publisher
+35	 ranker.com	20,917,128	Quantified Publisher
+36	 bustle.com	20,751,104	Quantified Publisher
+37	 worldlifestyle.com	19,510,868	Quantified Publisher
+38	 netflix.com	19,398,204	 
+39	 e.com	Quantified Publisher
+40	 vice.com	18,839,856	Quantified Publisher
+41	 f.com	Quantified Publisher
+42	 g.com	Quantified Publisher
+43	 buzzfeednews.com	17,307,052	Quantified Publisher
+44	 gfycat.com	17,237,136	Quantified Publisher
+45	 goodreads.com	17,098,344	Quantified Publisher
+47	 indeed.com	16,441,194	 
+48	 weather.com	16,372,842	 
+49	 walmart.com	16,000,384	 
+50	 h.com	Quantified Publisher
+51	 i.com	Quantified Publisher
+52	 bing.com	14,976,988	 
+53	 j.com	Quantified Publisher
+54	 apple.com	14,837,279	 
+55	 washingtonexaminer.com	14,486,583	Quantified Publisher
+56	 pinterest.com	14,203,224	 
+57	 refinery29.com	14,034,193	Quantified Publisher
+58	 wellsfargo.com	13,961,740	 
+59	 politico.com	13,880,105	Quantified Publisher
+60	 k.com	Quantified Publisher
+61	 slate.com	13,044,298	Quantified Publisher
+62	 l.com	Quantified Publisher
+63	 m.com	Quantified Publisher
+64	 n.com	Quantified Publisher
+65	 zillow.com	12,505,016	 
+66	 cosmopolitan.com	12,318,819	Quantified Publisher
+67	 cnbc.com	12,259,929	Quantified Publisher
+68	 drudgereport.com	12,204,752	Quantified Publisher
+69	 o.com	Quantified Publisher
+70	 radio.com	11,617,920	Quantified Publisher
+71	 p.com	Quantified Publisher
+72	 twentytwowords.com	11,152,279	Quantified Publisher
+73	 q.com	Quantified Publisher
+74	 deviantart.com	10,912,724	Quantified Publisher
+75	 padlet.com	10,716,503	Quantified Publisher
+76	 spanishdict.com	10,651,147	Quantified Publisher
+77	 healthgrades.com	10,340,908	Quantified Publisher
+78	 theverge.com	10,287,839	Quantified Publisher
+79	 metropcs.mobi	10,198,623	Quantified Publisher
+80	 nickiswift.com	10,127,907	Quantified Publisher
+81	 thekitchn.com	10,099,405	Quantified Publisher
+82	 answers.com	10,091,015	Quantified Publisher
+83	 wayfair.com	9,968,445	 
+84	 r.com	Quantified Publisher
+85	 people.com	9,874,249	 
+86	 brainly.com	9,671,699	Quantified Publisher
+87	 s.com	Quantified Publisher
+88	 hulu.com	9,407,302	 
+89	 t.com	Quantified Publisher
+90	 vox.com	9,380,920	Quantified Publisher
+91	 u.com	Quantified Publisher
+92	 247sports.com	9,026,400	Quantified Publisher
+93	 v.com	Quantified Publisher
+94	 stackoverflow.com	8,550,396	Quantified Publisher
+95	 go.com	8,537,427	 
+96	 mercurynews.com	8,485,606	Quantified Publisher
+97	 thoughtcatalog.com	8,383,886	Quantified Publisher
+98	 w.com	Quantified Publisher
+99	 comicbook.com	8,271,389	Quantified Publisher
+100	 rollingstone.com	8,050,083	Quantified Publisher
+101	 wattpad.com	7,903,425	Quantified Publisher
+102	 littlethings.com	7,861,596	Quantified Publisher
+103	 x.com	Quantified Publisher
+104	 theprimarymarket.com	7,648,975	Quantified Publisher
+105	 variety.com	7,599,968	Quantified Publisher
+106	 snopes.com	7,572,700	Quantified Publisher
+107	 definition.org	7,542,386	Quantified Publisher
+108	 businessinsider.com	7,279,429	 
+109	 howtogeek.com	7,146,824	Quantified Publisher
+110	 bobshideout.com	6,974,310	Quantified Publisher
+111	 newarena.com	6,970,801	Quantified Publisher
+112	 washingtontimes.com	6,888,251	Quantified Publisher
+113	 polygon.com	6,864,523	Quantified Publisher
+114	 y.com	Quantified Publisher
+115	 z.com	Quantified Publisher
+116	 aa.com	Quantified Publisher
+117	 ballotpedia.org	6,721,482	Quantified Publisher
+118	 ab.com	Quantified Publisher
+119	 ac.com	Quantified Publisher
+120	 thechive.com	6,600,961	Quantified Publisher
+121	 yourtango.com	6,592,870	Quantified Publisher
+122	 newyorker.com	6,562,809	Quantified Publisher
+123	 dailycaller.com	6,548,101	Quantified Publisher
+124	 imore.com	6,420,964	Quantified Publisher
+125	 ad.com	Quantified Publisher
+126	 thekrazycouponlady.com	6,396,447	Quantified Publisher
+127	 ae.com	Quantified Publisher
+128	 edmunds.com	6,216,873	 
+129	 carfax.com	6,111,313	 
+130	 graduatez.com	6,003,940	Quantified Publisher
+131	 hometalk.com	5,972,104	Quantified Publisher
+132	 uproxx.com	5,953,971	Quantified Publisher
+133	 msnbc.com	5,943,730	 
+134	 science101.com	5,915,061	Quantified Publisher
+135	 icepop.com	5,887,434	Quantified Publisher
+136	 groupon.com	5,879,443	 
+137	 af.com	Quantified Publisher
+138	 buff.ly	5,816,643	 
+139	 axs.com	5,793,742	Quantified Publisher
+140	 ag.com	Quantified Publisher
+141	 startribune.com	5,760,667	Quantified Publisher
+142	 facty.com	5,725,115	 
+143	 cars.com	5,695,293	 
+144	 ah.com	Quantified Publisher
+145	 cafemom.com	5,662,602	Quantified Publisher
+146	 looper.com	5,627,553	Quantified Publisher
+147	 finance101.com	5,617,354	Quantified Publisher
+148	 knowyourmeme.com	5,614,132	Quantified Publisher
+149	 drugs.com	5,579,293	 
+150	 gamespot.com	5,495,588	 
+151	 ai.com	Quantified Publisher
+152	 spotlightstories.co	5,489,180	Quantified Publisher
+153	 shareasale-analytics.com	5,441,277	 
+154	 coolimba.com	5,426,175	Quantified Publisher
+155	 aj.com	Quantified Publisher
+156	 dailydot.com	5,413,389	Quantified Publisher
+157	 vanityfair.com	5,383,273	Quantified Publisher
+158	 nesn.com	5,371,697	Quantified Publisher
+159	 ak.com	Quantified Publisher
+160	 bonappetit.com	5,214,059	Quantified Publisher
+161	 al.com	Quantified Publisher
+162	 mlb.com	5,210,568	 
+163	 songkick.com	5,200,611	Quantified Publisher
+164	 denverpost.com	5,187,329	Quantified Publisher
+165	 am.com	Quantified Publisher
+166	 simbaly.com	5,162,370	Quantified Publisher
+167	 cvs.com	5,138,286	 
+168	 hp.com	5,125,198	 
+169	 shmoop.com	5,085,371	Quantified Publisher
+170	 flightaware.com	5,039,858	Quantified Publisher
+171	 androidcentral.com	5,035,112	Quantified Publisher
+172	 dailykos.com	4,999,990	Quantified Publisher
+173	 magiquiz.com	4,994,154	Quantified Publisher
+174	 thegatewaypundit.com	4,957,901	 
+175	 an.com	Quantified Publisher
+176	 findagrave.com	4,840,093	Quantified Publisher
+177	 eonline.com	4,815,031	 
+178	 easybib.com	4,790,366	Quantified Publisher
+179	 popculture.com	4,749,486	Quantified Publisher
+180	 sendgrid.net	4,726,387	 
+181	 booking.com	4,706,670	 
+182	 wired.com	4,701,421	Quantified Publisher
+183	 sciencealert.com	4,680,107	Quantified Publisher
+184	 github.com	4,667,764	 
+185	 rare.us	4,664,068	Quantified Publisher
+186	 duckduckgo.com	4,648,570	 
+187	 trend-chaser.com	4,644,406	Quantified Publisher
+188	 rawstory.com	4,628,497	Quantified Publisher
+189	 westernjournal.com	4,627,868	Quantified Publisher
+190	 ao.com	Quantified Publisher
+191	 wish.com	4,536,901	 
+192	 thelist.com	4,533,186	Quantified Publisher
+193	 food52.com	4,527,363	Quantified Publisher
+194	 inverse.com	4,525,253	Quantified Publisher
+195	 ap.com	Quantified Publisher
+196	 eater.com	4,516,064	Quantified Publisher
+197	 radaronline.com	4,500,954	 
+198	 macrumors.com	4,437,062	Quantified Publisher
+199	 nbcsports.com	4,413,726	 
+200	 aq.com	Quantified Publisher
+201	 sprint.com	4,396,717	 
+202	 ajc.com	4,389,142	Quantified Publisher
+203	 sharepoint.com	4,330,075	 
+204	 ar.com	Quantified Publisher
+205	 adp.com	4,249,781	 
+206	 lifewire.com	4,234,107	 
+207	 doordash.com	4,203,131	 
+208	 as.com	Quantified Publisher
+212	 romper.com	4,160,114	Quantified Publisher
+213	 fantasypros.com	4,152,125	Quantified Publisher
+214	 patch.com	4,142,626	 
+215	 nextdoor.com	4,116,937	 
+216	 syf.com	4,098,469	 
+217	 harborfreight.com	4,083,975	 
+218	 mozilla.org	4,081,871	 
+219	 bizrate.com	4,069,592	 
+220	 weebly.com	4,041,151	 
+221	 patreon.com	3,999,288	 
+222	 at.com	Quantified Publisher
+223	 goodhousekeeping.com	3,985,541	 
+224	 harvard.edu	3,971,896	 
+225	 horoscope.com	3,949,530	Quantified Publisher
+226	 au.com	Quantified Publisher
+227	 alternativenation.net	3,905,158	 
+228	 gfinityesports.com	3,901,091	Quantified Publisher
+229	 force.com	3,878,415	 
+230	 united.com	3,866,266	 
+231	 redfin.com	3,853,488	 
+232	 cox.net	3,815,695	 
+233	 av.com	Quantified Publisher
+234	 aw.com	Quantified Publisher
+235	 fanbuzz.com	3,768,388	Quantified Publisher
+236	 ax.com	Quantified Publisher
+237	 britannica.com	3,754,456	 
+238	 timeanddate.com	3,742,463	 
+239	 myjobhelper.com	3,739,332	Quantified Publisher
+240	 state.gov	3,730,552	 
+241	 marriott.com	3,718,723	 
+242	 click2houston.com	3,699,216	Quantified Publisher
+243	 consumerreports.org	3,695,306	 
+244	 ay.com	Quantified Publisher
+245	 chasethetrend.com	3,680,760	Quantified Publisher
+246	 beenverified.com	3,660,773	 
+247	 az.com	Quantified Publisher
+248	 poshmark.com	3,638,135	 
+249	 verizon.com	3,615,799	 
+250	 ba.com	Quantified Publisher
+251	 adoptapet.com	3,595,075	Quantified Publisher
+252	 amzn.to	3,593,758	 
+253	 nytimes.com	3,592,751	 
+254	 paypal.com	3,580,028	 
+255	 history101.com	3,573,285	Quantified Publisher
+256	 ziprecruiter.com	3,572,005	 
+257	 local10.com	3,568,194	Quantified Publisher
+258	 southwest.com	3,566,624	 
+259	 slader.com	3,563,281	Quantified Publisher
+260	 pro-football-reference.com	3,550,092	Quantified Publisher
+261	 foxbusiness.com	3,529,342	 
+262	 bb.com	Quantified Publisher
+263	 bc.com	Quantified Publisher
+264	 docusign.net	3,518,848	 
+265	 sixflags.com	3,517,290	Quantified Publisher
+266	 bd.com	Quantified Publisher
+267	 be.com	Quantified Publisher
+268	 kayak.com	3,508,421	 
+269	 mathway.com	3,505,100	Quantified Publisher
+270	 kiwireport.com	3,503,699	Quantified Publisher
+271	 tmz.com	3,498,061	 
+272	 sacbee.com	3,494,067	Quantified Publisher
+273	 slideshare.net	3,487,767	 
+274	 adobe.com	3,483,311	 
+275	 kohls.com	3,477,538	 
+276	 wsbtv.com	3,469,871	Quantified Publisher
+277	 bf.com	Quantified Publisher
+278	 epicurious.com	3,457,166	Quantified Publisher
+279	 dailymotion.com	3,447,237	 
+280	 gunbroker.com	3,442,721	Quantified Publisher
+281	 directexpose.com	3,441,404	Quantified Publisher
+282	 apartmenttherapy.com	3,437,324	Quantified Publisher
+283	 aarp.org	3,437,264	 
+284	 bg.com	Quantified Publisher
+285	 theepochtimes.com	3,422,373	Quantified Publisher
+286	 time.com	3,417,502	 
+287	 rakuten.com	3,407,713	 
+288	 bh.com	Quantified Publisher
+289	 dallasnews.com	3,397,985	 
+290	 city-data.com	3,391,559	Quantified Publisher
+291	 apnews.com	3,388,317	 
+292	 maxpreps.com	3,369,157	 
+293	 investopedia.com	3,359,665	 
+294	 superuser.com	3,359,660	Quantified Publisher
+295	 archive.org	3,350,231	 
+296	 tiebreaker.com	3,349,197	Quantified Publisher
+297	 itstillruns.com	3,335,705	Quantified Publisher
+298	 bbc.co.uk	3,322,268	 
+299	 baseball-reference.com	3,296,128	Quantified Publisher
+300	 flickr.com	3,276,769	
+301	 phys.org	3,254,233	Quantified Publisher
+302	 glamour.com	3,250,997	Quantified Publisher
+303	 overstock.com	3,250,110	 
+304	 bi.com	Quantified Publisher
+305	 wideopencountry.com	3,242,243	Quantified Publisher
+306	 cdc.gov	3,241,328	 
+307	 catchpoint.com	3,241,040	Quantified Publisher
+308	 khanacademy.org	3,223,916	 
+309	 medallia.com	3,215,286	 
+310	 bj.com	Quantified Publisher
+311	 hollywoodreporter.com	3,198,175	 
+312	 miamiherald.com	3,196,575	Quantified Publisher
+313	 foxnews.com	3,178,453	 
+314	 hilton.com	3,164,537	 
+315	 thegrio.com	3,160,633	Quantified Publisher
+316	 bk.com	Quantified Publisher
+317	 onelink.me	3,139,806	 
+318	 crimeonline.com	3,136,522	Quantified Publisher
+319	 ebaumsworld.com	3,124,259	Quantified Publisher
+320	 cbssports.com	3,115,788	 
+321	 bl.com	Quantified Publisher
+322	 apartments.com	3,091,577	 
+323	 tributes.com	3,087,608	Quantified Publisher
+324	 grammarly.com	3,083,694	 
+325	 bloomberg.com	3,079,317	 
+326	 hotels.com	3,075,855	 
+327	 dell.com	3,068,059	 
+328	 bm.com	Quantified Publisher
+329	 jerusalemonline.com	3,060,305	 
+330	 outsideonline.com	3,058,748	Quantified Publisher
+331	 bn.com	Quantified Publisher
+332	 clicktripz.com	3,044,924	 
+333	 bo.com	Quantified Publisher
+334	 spectrum.net	3,042,550	 
+335	 bp.com	Quantified Publisher
+336	 zoom.us	3,037,296	 
+337	 windowscentral.com	3,036,368	Quantified Publisher
+338	 livingly.com	3,034,304	Quantified Publisher
+339	 advanceautoparts.com	3,014,657	 
+340	 covers.com	3,013,652	Quantified Publisher
+341	 bq.com	Quantified Publisher
+342	 self.com	3,007,695	Quantified Publisher
+343	 squareup.com	3,007,192	 
+344	 pbs.org	2,999,767	 
+345	 partycity.com	2,992,381	 
+346	 okta.com	2,985,035	 
+347	 researchgate.net	2,977,727	 
+348	 uber.com	2,970,459	 
+349	 usaa.com	2,963,228	 
+350	 aliexpress.com	2,948,880	 
+351	 offers.com	2,941,763	 
+352	 saturdaydownsouth.com	2,941,593	Quantified Publisher
+353	 study.com	2,934,682	 
+354	 screenrant.com	2,927,638	 
+355	 gq.com	2,926,396	Quantified Publisher
+356	 boingboing.net	2,926,209	Quantified Publisher
+357	 top5.com	2,925,662	Quantified Publisher
+358	 qvc.com	2,913,660	 
+359	 progressive.com	2,906,725	 
+360	 inc.com	2,899,825	 
+361	 br.com	Quantified Publisher
+362	 firefox.com	2,892,961	 
+363	 bs.com	Quantified Publisher
+364	 mapquest.com	2,889,987	 
+365	 pcgamer.com	2,879,338	 
+366	 sciencedirect.com	2,872,578	 
+367	 dropbox.com	2,871,708	 
+368	 expedia.com	2,865,895	 
+369	 tractorsupply.com	2,865,852	 
+370	 itstillworks.com	2,865,612	Quantified Publisher
+371	 americascardroom.eu	2,859,160	 
+372	 salon.com	2,852,503	 
+373	 atlasobscura.com	2,842,944	Quantified Publisher
+374	 vogue.com	2,840,867	Quantified Publisher
+375	 boredpanda.com	2,839,287	 
+376	 myshopify.com	2,826,203	 
+377	 bgr.com	2,819,710	 
+378	 Hidden profile	Quantified Publisher
+379	 spectrum.com	2,813,249	 
+380	 sbnation.com	2,810,498	Quantified Publisher
+381	 abc15.com	2,808,622	Quantified Publisher
+382	 nation.com	2,800,423	 
+383	 medicinenet.com	2,794,057	 
+384	 sears.com	2,787,722	 
+385	 indiewire.com	2,779,611	Quantified Publisher
+386	 belk.com	2,768,904	 
+387	 accuweather.com	2,761,098	 
+388	 wxyz.com	2,758,979	Quantified Publisher
+389	 bbt.com	2,756,510	 
+390	 geico.com	2,750,358	 
+391	 zerohedge.com	2,747,153	Quantified Publisher
+392	 ed.gov	2,744,235	 
+393	 frtyk.com	2,738,142	 
+394	 kroger.com	2,726,044	 
+395	 christianpost.com	2,714,762	Quantified Publisher
+396	 tracfone.com	2,714,060	 
+397	 astrology.com	2,714,029	Quantified Publisher
+398	 epicgames.com	2,702,190	 
+399	 news4jax.com	2,699,205	Quantified Publisher
+400	 patheos.com	2,686,920	Quantified Publisher
+401	 clickondetroit.com	2,684,553	Quantified Publisher
+402	 instructables.com	2,673,000	 
+403	 houzz.com	2,661,515	 
+404	 arstechnica.com	2,657,869	Quantified Publisher
+405	 kidshealth.org	2,655,812	 
+406	 americanthinker.com	2,647,385	Quantified Publisher
+407	 redd.it	2,646,628	 
+408	 chegg.com	2,644,485	 
+409	 ticketweb.com	2,643,922	Quantified Publisher
+410	 tesla.com	2,638,860	 
+411	 fidelity.com	2,633,262	 
+412	 ksat.com	2,629,806	Quantified Publisher
+413	 homeadvisor.com	2,616,619	 
+414	 daily-choices.com	2,607,419	Quantified Publisher
+415	 bt.com	Quantified Publisher
+416	 delish.com	2,606,358	 
+417	 lonelyplanet.com	2,604,120	Quantified Publisher
+418	 rxlist.com	2,600,202	 
+419	 tacobell.com	2,594,779	 
+420	 pcmag.com	2,589,381	 
+421	 sfgate.com	2,586,299	 
+422	 amctheatres.com	2,584,007	 
+423	 ca.gov	2,582,120	 
+424	 change.org	2,578,657	 
+425	 usmagazine.com	2,573,331	 
+426	 starbucks.com	2,568,028	 
+427	 careerbuilder.com	2,557,494	 
+428	 livescience.com	2,547,053	 
+429	 getpocket.com	2,541,867	 
+430	 golfdigest.com	2,539,808	Quantified Publisher
+431	 coursehero.com	2,536,703	 
+432	 stubhub.com	2,531,563	 
+433	 animalchannel.co	2,523,170	Quantified Publisher
+434	 eventbrite.com	2,521,272	 
+435	 justanswer.com	2,516,275	 
+436	 gardeningknowhow.com	2,515,060	Quantified Publisher
+437	 evite.com	2,511,224	 
+438	 myworkdayjobs.com	2,506,194	 
+439	 almanac.com	2,502,975	Quantified Publisher
+440	 vividseats.com	2,501,186	 
+441	 shutterstock.com	2,496,200	 
+442	 bu.com	Quantified Publisher
+443	 lyft.com	2,491,235	 
+444	 gradesaver.com	2,488,243	Quantified Publisher
+445	 windows.net	2,486,291	 
+446	 seeitlive.co	2,484,602	Quantified Publisher
+447	 shein.com	2,481,369	 
+448	 cnsnews.com	2,477,670	Quantified Publisher
+449	 avvo.com	2,476,468	 
+450	 jstor.org	2,471,587	 
+451	 godaddy.com	2,466,728	 
+452	 bankofamerica.com	2,466,692	 
+453	 cornell.edu	2,461,889	 
+454	 pitchfork.com	2,460,086	Quantified Publisher
+455	 psychologytoday.com	2,457,070	 
+456	 livestly.com	2,452,178	Quantified Publisher
+457	 squarespace.com	2,447,494	 
+458	 alibaba.com	2,442,736	 
+459	 food.com	2,437,998	 
+460	 bv.com	Quantified Publisher
+461	 siriusxm.com	2,433,280	 
+462	 alltrails.com	2,431,883	Quantified Publisher
+463	 whatsapp.com	2,428,582	 
+464	 yourdictionary.com	2,423,903	 
+465	 truthfinder.com	2,419,244	 
+466	 tasty.co	2,418,550	Quantified Publisher
+467	 bw.com	Quantified Publisher
+468	 custhelp.com	2,414,604	 
+469	 countryliving.com	2,409,983	 
+470	 zappos.com	2,405,382	 
+471	 thebalance.com	2,400,799	 
+472	 landsend.com	2,396,235	 
+473	 bx.com	Quantified Publisher
+474	 gearpatrol.com	2,392,999	Quantified Publisher
+475	 staples.com	2,391,690	 
+476	 by.com	Quantified Publisher
+477	 digitalspy.com	2,387,164	 
+478	 makeuseof.com	2,382,656	 
+479	 whiskeyriff.com	2,379,357	Quantified Publisher
+480	 cbr.com	2,378,166	 
+481	 kansascity.com	2,374,694	Quantified Publisher
+482	 grubhub.com	2,373,695	 
+483	 bz.com	Quantified Publisher
+484	 comcast.net	2,369,242	 
+485	 ca.com	Quantified Publisher
+486	 activebeat.com	2,364,807	 
+487	 washingtonpost.com	2,364,656	 
+488	 liveleak.com	2,362,022	Quantified Publisher
+489	 statefarm.com	2,360,389	 
+490	 campingworld.com	2,347,244	 
+491	 forever21.com	2,342,898	 
+492	 abcactionnews.com	2,341,845	Quantified Publisher
+493	 ulta.com	2,338,569	 
+494	 mega.nz	2,334,257	 
+495	 androidpolice.com	2,323,262	Quantified Publisher
+496	 chevrolet.com	2,321,423	 
+497	 bbc.com	2,317,442	 
+498	 reuters.com	2,317,180	 
+499	 wikipedia.org	2,313,545	 
+500	 manta.com	2,312,952	 
+501	 dailywire.com	2,304,548	 
+502	 telegraph.co.uk	2,300,371	 
+503	 ny.gov	2,296,209	 
+504	 upi.com	2,294,630	Quantified Publisher
+505	 kickstarter.com	2,292,065	 
+506	 convertkit-mail.com	2,290,432	 
+507	 ups.com	2,288,733	 
+508	 mirror.co.uk	2,287,936	 
+509	 discord.gg	2,285,760	 
+510	 cb.com	Quantified Publisher
+511	 studyblue.com	2,285,372	Quantified Publisher
+512	 va.gov	2,283,823	 
+513	 nutaku.net	2,279,727	 
+514	 53.com	2,275,646	 
+515	 cheapoair.com	2,271,581	 
+516	 latimes.com	2,269,375	 
+517	 stanford.edu	2,267,531	 
+518	 goodrx.com	2,263,498	 
+519	 noaa.gov	2,255,476	 
+520	 wearemitu.com	2,254,385	Quantified Publisher
+521	 housebeautiful.com	2,251,489	 
+522	 history.com	2,243,559	 
+523	 ew.com	2,239,617	 
+524	 bandcamp.com	2,235,690	 
+525	 cc.com	Quantified Publisher
+526	 clickorlando.com	2,223,264	Quantified Publisher
+527	 subway.com	2,220,129	 
+528	 wordplays.com	2,215,917	Quantified Publisher
+529	 cd.com	Quantified Publisher
+530	 xhamsterlive.com	2,208,611	 
+531	 liftoff.io	2,204,801	 
+532	 craigslist.org	2,203,049	 
+533	 vrbo.com	2,201,004	 
+534	 purdue.edu	2,197,222	 
+535	 ce.com	Quantified Publisher
+536	 thedenverchannel.com	2,195,658	Quantified Publisher
+537	 signupgenius.com	2,193,454	 
+538	 foxsports.com	2,189,700	 
+539	 gocomics.com	2,188,951	Quantified Publisher
+540	 theadvocate.com	2,187,860	Quantified Publisher
+541	 wixsite.com	2,182,233	 
+542	 factinate.com	2,181,886	Quantified Publisher
+543	 synchronycredit.com	2,178,520	 
+544	 canon.com	2,174,821	 
+545	 cf.com	Quantified Publisher
+546	 hotmail.com	2,171,135	 
+547	 sweepstakesalerts.com	2,169,028	Quantified Publisher
+548	 adsmoloco.com	2,167,463	 
+549	 mandrillapp.com	2,163,804	 
+550	 speedtest.net	2,160,158	 
+551	 kbb.com	2,153,076	 
+552	 oreillyauto.com	2,149,301	 
+553	 docusign.com	2,145,709	 
+554	 basketball-reference.com	2,144,467	Quantified Publisher
+555	 aol.com	2,143,986	 
+556	 carid.com	2,142,129	 
+557	 joinhoney.com	2,138,562	 
+558	 nationalinterest.org	2,131,466	 
+559	 spirithalloween.com	2,129,962	 
+560	 battle.net	2,127,938	 
+561	 9to5mac.com	2,127,305	Quantified Publisher
+562	 autotrader.com	2,120,918	 
+563	 mylife.com	2,117,427	 
+564	 cg.com	Quantified Publisher
+565	 medlineplus.gov	2,113,949	 
+566	 walgreens.com	2,113,261	 
+567	 broadwayworld.com	2,110,755	Quantified Publisher
+568	 travelocity.com	2,110,482	 
+569	 jetblue.com	2,103,586	 
+570	 zimbio.com	2,100,386	Quantified Publisher
+571	 trivago.com	2,100,157	 
+572	 gap.com	2,098,295	 
+576	 appcast.io	2,096,739	 
+577	 reservations.com	2,095,651	Quantified Publisher
+578	 ch.com	Quantified Publisher
+579	 angieslist.com	2,093,334	 
+580	 ci.com	Quantified Publisher
+581	 rockauto.com	2,089,940	 
+582	 nationalgeographic.com	2,086,558	 
+583	 acehardware.com	2,083,189	 
+584	 americanexpress.com	2,079,159	 
+585	 lifestyle-a2z.com	2,076,271	Quantified Publisher
+586	 shopify.com	2,069,826	 
+587	 thedrive.com	2,066,514	 
+588	 topixoffbeat.com	2,060,438	Quantified Publisher
+589	 alot.com	2,059,925	 
+590	 directv.com	2,056,647	 
+591	 bhphotovideo.com	2,053,381	 
+592	 thefreedictionary.com	2,046,882	 
+593	 wtop.com	2,044,942	Quantified Publisher
+594	 curbed.com	2,043,905	Quantified Publisher
+595	 clevelandclinic.org	2,043,649	 
+596	 carvana.com	2,037,216	 
+597	 mundohispanico.com	2,036,055	Quantified Publisher
+598	 eventful.com	2,031,901	Quantified Publisher
+599	 vanguard.com	2,030,827	 
+600	 king.com	2,029,699	Quantified Publisher
+601	 checkpeople.com	2,024,481	 
+602	 whattoexpect.com	2,021,324	 
+603	 bestplaces.net	2,019,661	Quantified Publisher
+604	 coupons.com	2,018,178	 
+605	 fastcompany.com	2,015,042	 
+606	 rei.com	2,005,698	 
+607	 bettycrocker.com	2,002,604	 
+608	 orbitz.com	1,999,521	 
+609	 infowars.com	1,994,523	Quantified Publisher
+610	 nordstromrack.com	1,993,384	 
+611	 canva.com	1,990,331	 
+612	 nbcnews.com	1,989,173	 
+613	 menshealth.com	1,987,289	 
+614	 ford.com	1,984,256	 
+615	 ck.com	Quantified Publisher
+616	 chicagotribune.com	1,981,233	 
+617	 parentztalk.com	1,978,831	Quantified Publisher
+618	 pnc.com	1,978,220	 
+619	 aaa.com	1,975,217	 
+620	 shape.com	1,972,224	 
+621	 westelm.com	1,969,240	 
+622	 cl.com	Quantified Publisher
+623	 oureverydaylife.com	1,963,678	Quantified Publisher
+624	 distractify.com	1,963,303	 
+625	 dailyvoice.com	1,963,059	 
+626	 frontgatetickets.com	1,961,524	Quantified Publisher
+627	 boston.com	1,954,469	 
+628	 umblr.com	1,951,543	 
+629	 ratemyprofessors.com	1,948,627	 
+630	 fitbit.com	1,945,721	 
+631	 teespring.com	1,942,823	 
+632	 wideopeneats.com	1,940,074	Quantified Publisher
+633	 petsmart.com	1,939,935	 
+634	 texas.gov	1,939,935	 
+635	 ilovemydogsomuch.tv	1,938,038	Quantified Publisher
+636	 mic.com	1,936,275	Quantified Publisher
+637	 zmenu.com	1,934,187	 
+638	 atlantablackstar.com	1,928,476	 
+639	 papajohns.com	1,922,800	 
+640	 thezoereport.com	1,921,431	Quantified Publisher
+641	 carmax.com	1,919,976	 
+642	 cnet.com	1,919,150	 
+643	 irs.gov	1,918,508	 
+644	 windowsazure.com	1,917,161	 
+645	 blizzard.com	1,911,558	 
+646	 hobbylobby.com	1,908,769	 
+647	 scribd.com	1,905,990	 
+648	 nadaguides.com	1,903,219	 
+649	 popsugar.com	1,897,703	 
+650	 athenahealth.com	1,894,958	 
+651	 nike.com	1,889,494	 
+652	 biglots.com	1,886,774	 
+653	 airfarewatchdog.com	1,885,020	Quantified Publisher
+654	 mashable.com	1,884,064	 
+655	 thisoldhouse.com	1,884,034	Quantified Publisher
+656	 science-a2z.com	1,882,104	Quantified Publisher
+657	 nba.com	1,881,361	 
+658	 sohh.com	1,880,353	Quantified Publisher
+659	 nps.gov	1,878,667	 
+660	 salary.com	1,878,486	Quantified Publisher
+661	 mcdonalds.com	1,875,981	 
+662	 womenshealthmag.com	1,870,635	 
+663	 mother.ly	1,870,322	Quantified Publisher
+664	 allmusic.com	1,868,814	Quantified Publisher
+665	 pge.com	1,867,974	 
+666	 outlook.com	1,867,639	 
+667	 bodybuilding.com	1,865,321	 
+668	 tvguide.com	1,862,676	 
+669	 ticketsatwork.com	1,860,863	Quantified Publisher
+670	 dsw.com	1,860,039	 
+671	 pgatour.com	1,857,746	Quantified Publisher
+672	 gettyimages.com	1,857,411	 
+673	 nintendo.com	1,854,790	 
+674	 nasa.gov	1,852,178	 
+675	 meaww.com	1,851,883	Quantified Publisher
+676	 celebspulse.com	1,849,199	Quantified Publisher
+677	 cm.com	Quantified Publisher
+678	 blackboard.com	1,844,388	 
+679	 reason.com	1,842,996	Quantified Publisher
+680	 androidauthority.com	1,842,137	Quantified Publisher
+681	 bathandbodyworks.com	1,841,807	 
+682	 thethings.com	1,836,669	 
+683	 cn.com	Quantified Publisher
+684	 blabbermouth.net	1,835,620	Quantified Publisher
+685	 bhg.com	1,834,111	 
+686	 findlaw.com	1,831,561	 
+687	 dillards.com	1,829,019	 
+688	 beliefnet.com	1,823,967	Quantified Publisher
+689	 dartsearch.net	1,823,957	 
+690	 nj.com	1,821,438	 
+691	 mnn.com	1,819,591	Quantified Publisher
+692	 monster.com	1,818,926	 
+693	 ask.com	1,813,924	 
+694	 caranddriver.com	1,811,434	 
+695	 norton.com	1,811,434	 
+696	 schwab.com	1,810,764	 
+697	 creditkarma.com	1,809,254	 
+698	 scientificamerican.com	1,804,010	 
+699	 teenvogue.com	1,801,703	Quantified Publisher
+700	 roku.com	1,801,549	 
+701	 key.com	1,799,096	 
+702	 co.com	Quantified Publisher
+703	 tripadvisor.com	1,794,575	 
+704	 cp.com	Quantified Publisher
+705	 seattletimes.com	1,791,780	 
+706	 lovetoknow.com	1,789,356	 
+707	 ultimate-guitar.com	1,786,939	 
+708	 teacherspayteachers.com	1,784,529	 
+709	 content-ad.net	1,779,729	 
+710	 ml.com	1,777,340	 
+711	 star-telegram.com	1,775,776	Quantified Publisher
+712	 kiplinger.com	1,772,867	Quantified Publisher
+713	 popularmechanics.com	1,772,582	 
+714	 cq.com	Quantified Publisher
+715	 tcgplayer.com	1,767,852	 
+716	 robinhood.com	1,765,497	 
+717	 wptv.com	1,763,359	Quantified Publisher
+718	 arcgis.com	1,763,149	 
+719	 today.com	1,762,692	 
+720	 wiktionary.org	1,760,807	 
+721	 worthpoint.com	1,760,648	Quantified Publisher
+722	 metro.co.uk	1,758,473	 
+723	 amarktflow.com	1,753,823	 
+724	 usda.gov	1,749,201	 
+725	 sephora.com	1,746,899	 
+726	 halloweencostumes.com	1,744,604	 
+727	 fixya.com	1,742,316	 
+728	 instacart.com	1,740,034	 
+729	 homehacks.co	1,739,658	Quantified Publisher
+730	 alight.com	1,737,758	 
+731	 ultimateclassicrock.com	1,735,489	 
+732	 choicehotels.com	1,733,226	 
+733	 newsobserver.com	1,732,491	Quantified Publisher
+734	 bestdeals.today	1,728,720	 
+735	 thrillist.com	1,726,477	 
+736	 pof.com	1,724,239	 
+737	 costco.com	1,720,597	 
+738	 nih.gov	1,719,804	 
+739	 webstaurantstore.com	1,717,565	 
+740	 dailynews.com	1,712,825	Quantified Publisher
+741	 bestreviews.guide	1,708,752	 
+742	 office.com	1,708,686	 
+743	 medicare.gov	1,704,382	 
+744	 cr.com	Quantified Publisher
+745	 cs.com	Quantified Publisher
+746	 zazzle.com	1,702,206	 
+747	 ct.com	Quantified Publisher
+748	 dmv.org	1,700,372	Quantified Publisher
+749	 kaiserpermanente.org	1,697,872	 
+750	 wixstatic.com	1,693,562	 
+751	 space.com	1,693,279	 
+752	 creditonebank.com	1,691,416	 
+753	 manualslib.com	1,687,141	 
+754	 hiphopdx.com	1,685,467	Quantified Publisher
+755	 billboard.com	1,685,013	 
+756	 meetup.com	1,682,890	 
+757	 att.com	1,682,317	 
+758	 spirit.com	1,680,773	 
+759	 cu.com	Quantified Publisher
+760	 grainger.com	1,676,556	 
+761	 cc.com	1,674,771	Quantified Publisher
+762	 petco.com	1,674,456	 
+763	 celtra.com	1,672,362	 
+764	 adweek.com	1,671,363	Quantified Publisher
+765	 cheezburger.com	1,670,479	Quantified Publisher
+766	 charlotteobserver.com	1,670,430	Quantified Publisher
+767	 vulture.com	1,670,274	 
+768	 mycreditcard.mobi	1,666,114	 
+769	 cv.com	Quantified Publisher
+770	 nolo.com	1,664,042	 
+771	 udemy.com	1,661,976	 
+772	 cracked.com	1,660,714	Quantified Publisher
+773	 ihg.com	1,657,860	 
+774	 hgtv.com	1,657,829	 
+775	 straighttalk.com	1,655,811	 
+776	 trulia.com	1,655,420	 
+777	 playbill.com	1,650,291	Quantified Publisher
+778	 bringatrailer.com	1,649,093	Quantified Publisher
+779	 wkyt.com	1,645,756	Quantified Publisher
+780	 citationmachine.net	1,645,645	 
+781	 cabelas.com	1,643,628	 
+782	 sherwin-williams.com	1,641,616	 
+783	 10news.com	1,641,123	Quantified Publisher
+784	 collegeconfidential.com	1,640,706	Quantified Publisher
+785	 nationaldaycalendar.com	1,640,493	Quantified Publisher
+786	 amazon.co.uk	1,639,610	 
+787	 box.com	1,637,609	 
+788	 npr.org	1,637,103	 
+789	 uscis.gov	1,635,613	 
+790	 heroichollywood.com	1,633,623	 
+791	 mashed.com	1,630,911	Quantified Publisher
+792	 economist.com	1,630,549	Quantified Publisher
+793	 mamaslatinas.com	1,628,235	Quantified Publisher
+794	 petapixel.com	1,627,958	Quantified Publisher
+795	 minecraft.net	1,627,683	 
+796	 cx.com	Quantified Publisher
+797	 enterprise.com	1,625,713	 
+798	 milesplit.com	1,625,213	Quantified Publisher
+799	 allstate.com	1,623,749	 
+800	 intuit.com	1,622,333	 
+801	 sonyentertainmentnetwork.com	1,621,789	 
+802	 lotterypost.com	1,621,231	Quantified Publisher
+803	 mailchimp.com	1,619,835	 
+804	 westword.com	1,618,961	Quantified Publisher
+805	 psu.edu	1,617,886	 
+806	 downdetector.com	1,615,941	 
+807	 flyfrontier.com	1,614,002	 
+808	 boostmobile.com	1,610,139	 
+809	 potterybarn.com	1,608,215	 
+810	 jobs2careers.com	1,606,296	 
+811	 olivegarden.com	1,602,473	 
+812	 qz.com	1,600,569	 
+813	 biblehub.com	1,598,669	 
+814	 newsmax.com	1,596,775	 
+815	 wcpo.com	1,595,726	Quantified Publisher
+816	 wikibuy.com	1,594,885	 
+817	 reviewjournal.com	1,593,100	Quantified Publisher
+818	 wizards.com	1,593,000	 
+819	 heraldweekly.com	1,592,382	Quantified Publisher
+820	 neuvoo.com	1,591,120	 
+821	 engadget.com	1,589,245	 
+822	 westernunion.com	1,585,509	 
+823	 actblue.com	1,583,648	 
+824	 cy.com	Quantified Publisher
+825	 gothamist.com	1,582,169	Quantified Publisher
+826	 barclaycardus.com	1,581,791	 
+827	 cricketwireless.com	1,579,940	 
+828	 revelist.com	1,577,636	Quantified Publisher
+829	 dhgate.com	1,576,251	 
+830	 krunker.io	1,575,864	Quantified Publisher
+831	 citi.com	1,574,860	 
+832	 victoriassecret.com	1,574,413	 
+833	 metalheadzone.com	1,572,580	 
+834	 medicalxpress.com	1,572,353	Quantified Publisher
+835	 uhc.com	1,570,752	 
+836	 movoto.com	1,568,928	 
+837	 cntraveler.com	1,568,513	Quantified Publisher
+838	 bovada.lv	1,567,109	 
+839	 cz.com	Quantified Publisher
+840	 reference.com	1,563,484	 
+841	 simplyrecipes.com	1,561,679	 
+842	 kahoot.it	1,559,878	 
+843	 lamag.com	1,557,399	Quantified Publisher
+844	 tripod.com	1,556,289	 
+845	 da.com	Quantified Publisher
+846	 xbox.com	1,554,502	 
+847	 db.com	Quantified Publisher
+848	 slashfilm.com	1,554,059	Quantified Publisher
+849	 rosegal.com	1,552,719	 
+850	 neimanmarcus.com	1,550,940	 
+851	 toyota.com	1,549,165	 
+852	 earthsky.org	1,548,713	Quantified Publisher
+853	 ifixit.com	1,547,395	 
+854	 hsn.com	1,545,630	 
+855	 famousfootwear.com	1,543,869	 
+856	 thejasminebrand.com	1,542,253	Quantified Publisher
+857	 tomshardware.com	1,542,112	 
+858	 wix.com	1,540,359	 
+859	 athletic.net	1,538,835	Quantified Publisher
+860	 publix.com	1,538,611	 
+861	 dc.com	Quantified Publisher
+862	 observer.com	1,532,170	Quantified Publisher
+863	 hemmings.com	1,528,276	Quantified Publisher
+864	 academia.edu	1,528,211	 
+865	 wpxi.com	1,527,659	Quantified Publisher
+866	 cbsnews.com	1,525,859	 
+867	 mirmay.com	1,524,778	 
+868	 thepiratebay.org	1,523,068	 
+869	 fashionnova.com	1,517,962	 
+870	 gmail.co	1,516,268	 
+871	 panerabread.com	1,514,578	 
+872	 algebra.com	1,513,260	Quantified Publisher
+873	 redbubble.com	1,512,893	 
+874	 dd.com	Quantified Publisher
+875	 law.com	1,509,243	Quantified Publisher
+876	 reddit.com	1,508,785	 
+877	 vitals.com	1,506,456	Quantified Publisher
+878	 azlyrics.com	1,502,864	 
+879	 de.com	Quantified Publisher
+880	 ncsecu.org	1,499,553	 
+881	 pinsightmedia.com	1,497,903	 
+882	 office365.com	1,497,637	 
+883	 usccb.org	1,497,531	Quantified Publisher
+884	 fubo.tv	1,494,615	 
+885	 stylebistro.com	1,494,564	Quantified Publisher
+886	 inquisitr.com	1,491,343	 
+887	 mmamania.com	1,491,080	Quantified Publisher
+888	 pcgamesn.com	1,489,713	 
+889	 cbs.com	1,488,087	 
+890	 smartertravel.com	1,487,188	Quantified Publisher
+891	 hotwire.com	1,486,464	 
+892	 etonline.com	1,484,846	 
+893	 express.com	1,483,231	 
+894	 foursquare.com	1,481,620	 
+895	 usa.gov	1,480,013	 
+896	 df.com	Quantified Publisher
+897	 thredup.com	1,476,809	 
+898	 marieclaire.com	1,475,213	 
+899	 liquor.com	1,473,949	Quantified Publisher
+900	 domesticatedcompanion.com	1,473,842	Quantified Publisher
+901	 leagueoflegends.com	1,473,621	 
+902	 weheartit.com	1,472,247	 
+903	 dollargeneral.com	1,472,032	 
+904	 fivethirtyeight.com	1,470,448	 
+905	 snapchat.com	1,467,289	 
+906	 bookingbuddy.com	1,466,010	Quantified Publisher
+907	 michaels.com	1,465,664	 
+908	 springer.com	1,464,145	 
+909	 myway.com	1,461,015	 
+910	 tvseriesfinale.com	1,459,748	 
+911	 academy.com	1,459,456	 
+912	 landwatch.com	1,458,671	Quantified Publisher
+913	 reverb.com	1,457,900	 
+914	 playjunkie.com	1,455,657	Quantified Publisher
+915	 bizapedia.com	1,454,980	Quantified Publisher
+916	 bloomingdales.com	1,454,800	 
+917	 songmeanings.com	1,452,827	Quantified Publisher
+918	 marthastewart.com	1,451,713	 
+919	 techcrunch.com	1,450,175	 
+920	 mmafighting.com	1,445,926	Quantified Publisher
+921	 dishnetwork.com	1,445,582	 
+922	 wikidot.com	1,444,910	Quantified Publisher
+923	 pch.com	1,442,538	 
+924	 furaffinity.net	1,442,456	Quantified Publisher
+925	 dg.com	Quantified Publisher
+926	 blogger.com	1,437,997	 
+927	 culturemap.com	1,437,309	Quantified Publisher
+928	 lnks.gd	1,436,491	 
+929	 worldation.com	1,434,571	Quantified Publisher
+930	 cox.com	1,431,991	 
+931	 realsimple.com	1,430,498	 
+932	 ring.com	1,429,008	 
+933	 rd.com	1,427,522	 
+934	 loudwire.com	1,426,039	 
+935	 ashleyfurniture.com	1,424,559	 
+936	 architecturaldigest.com	1,424,488	Quantified Publisher
+937	 donaldjtrump.com	1,423,083	 
+938	 planetfitness.com	1,421,610	 
+939	 smithsonianmag.com	1,420,140	 
+940	 sling.com	1,418,673	 
+941	 coolmathgames.com	1,415,750	 
+942	 familyhandyman.com	1,414,293	 
+943	 lovebscott.com	1,413,318	Quantified Publisher
+944	 nationalreview.com	1,412,840	 
+945	 grunge.com	1,411,390	Quantified Publisher
+946	 morningstar.com	1,409,942	 
+947	 joann.com	1,408,499	 
+948	 wa.gov	1,405,621	 
+949	 dh.com	Quantified Publisher
+950	 zoosk.com	1,404,186	 
+951	 wholefoodsmarket.com	1,402,755	 
+952	 wsoctv.com	1,402,677	Quantified Publisher
+953	 stockx.com	1,399,902	 
+954	 di.com	Quantified Publisher
+955	 lumenlearning.com	1,398,481	 
+956	 dj.com	Quantified Publisher
+957	 wendys.com	1,397,062	 
+958	 ubi.com	1,395,647	 
+959	 theinfatuation.com	1,395,198	Quantified Publisher
+960	 wordhippo.com	1,394,234	 
+961	 zenfolio.com	1,390,185	Quantified Publisher
+962	 aka.ms	1,390,016	 
+963	 dignitymemorial.com	1,388,616	 
+964	 house.gov	1,385,825	 
+965	 wftv.com	1,385,807	Quantified Publisher
+966	 altdriver.com	1,385,048	Quantified Publisher
+967	 slack.com	1,384,434	 
+968	 topixstars.com	1,383,703	Quantified Publisher
+969	 hudl.com	1,383,046	 
+970	 biblestudytools.com	1,381,661	 
+971	 skims.com	1,379,099	Quantified Publisher
+972	 google.org	1,378,900	 
+973	 dk.com	Quantified Publisher
+974	 amtrak.com	1,377,524	 
+975	 chase.com	1,377,399	 
+976	 xfinity.com	1,377,022	 
+977	 cheapflights.com	1,376,151	 
+978	 smartasset.com	1,374,781	 
+979	 spdate.com	1,373,414	 
+980	 picclick.com	1,372,050	 
+981	 leafly.com	1,370,689	 
+982	 dish.com	1,369,330	 
+983	 skyscanner.com	1,367,975	 
+984	 bitly.com	1,365,273	 
+985	 topix.com	1,364,046	Quantified Publisher
+986	 therealdeal.com	1,363,042	Quantified Publisher
+987	 cinemark.com	1,362,582	 
+988	 worldatlas.com	1,361,241	 
+989	 tagged.com	1,360,557	Quantified Publisher
+990	 typeform.com	1,359,903	 
+991	 mit.edu	1,358,568	 
+992	 lifedaily.com	1,357,635	Quantified Publisher
+993	 kmail-lists.com	1,357,235	 
+994	 sfchronicle.com	1,354,579	 
+995	 tjx.com	1,351,934	 
+996	 echosign.com	1,350,615	 
+997	 governmentjobs.com	1,349,300	 
+998	 propublica.org	1,347,987	 
+999	 medium.com	1,346,063	 
+1000	 thestranger.com	1,346,027	Quantified Publisher
